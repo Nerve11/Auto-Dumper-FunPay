@@ -1,0 +1,12 @@
+{
+    "check_interval_minutes": 10,
+    "price_decrease_amount": 1,
+    "min_price": 1000,
+    "game_id": "123",
+    "server_id": "456",
+    "lot_id": "789",
+    "whitelist": [
+        "friend_user_id",
+        "another_friend_name"
+    ]
+} 
